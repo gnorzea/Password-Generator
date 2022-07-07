@@ -26,7 +26,7 @@ function generatePassword() {
   addSpecial = confirm("Would you like to add symbols?");
 
   if (!addNumeric && !addUppercase && !addLowercase && !addSpecial) {
-    choices = alert("You must choose a criteria!");
+    window.alert("You must choose a criteria!");
 
   }
   while (password.length < passLength) {
