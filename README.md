@@ -4,12 +4,12 @@ This password generator is used to generate a random password based on the crite
 
 ## Technology Used
 
-*Javascript
-*HTML
-*CSS
+* Javascript
+* HTML
+* CSS
 
 ## Preview
 
-! [alt text](./assets/images/forReadme.png)
+<img src = "./assets/images/forReadme.png" alt = "Website Preview" />  
 
-Deployed Application: https://gnorzea.github.io/Password-Generator/
+<a href= "https://gnorzea.github.io/Password-Generator/"> Deployed Link on GitHub</a>
